@@ -1,0 +1,8 @@
+#pragma once
+
+#define SCREEN_WIDTH 512
+#define SCREEN_HIGHT 416
+#define MOVEMENT_SPEED 0.02f;
+#define JUMP_FORCE_DECREMENT 10.0f
+#define INITIAL_JUMP_FORCE 10.0f
+#define GRAVITY 0.01f
