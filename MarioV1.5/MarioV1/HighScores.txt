@@ -1,0 +1,10 @@
+tim 1000
+ 1000
+dain 1000
+aaaa 1000
+ddddddddddd 1000
+bob 1000
+www 900
+ 800
+ 800
+ron 800

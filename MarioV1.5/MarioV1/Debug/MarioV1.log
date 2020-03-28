@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MarioV1-DESKTOP-9PFVH7V.vcxproj, MarioV1-S500B-10.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Character.cpp
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Character.cpp(41,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Character.cpp(145,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Character.cpp(145,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MarioV1.vcxproj -> C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\Debug\MarioV1.exe
