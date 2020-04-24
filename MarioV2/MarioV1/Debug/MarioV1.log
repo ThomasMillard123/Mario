@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MarioV1-DESKTOP-9PFVH7V.vcxproj, MarioV1-S500B-10.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameScreenMenu.cpp
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\GameScreenMenu.h(15,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\GameScreenMenu.cpp(23,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\GameScreenMenu.cpp(45,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PowBlock.cpp
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\GameScreenMenu.cpp(45,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(19,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(20,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(37,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(38,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(38,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(38,63): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(38,63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(39,63): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(39,63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(39,82): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  Generating Code...
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\PowBlock.cpp(39,82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MarioV1.vcxproj -> C:\Users\rug11\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\Debug\MarioV1.exe

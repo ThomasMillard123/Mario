@@ -1,0 +1,8 @@
+Level 2 key
+0=empty space
+1=BockA
+2=pow block
+3=coin
+4=pipe
+5=Pipe left
+6=koopa

@@ -1,0 +1,10 @@
+tom 1500
+tom 1500
+tom 1500
+win 1500
+tom 1500
+player2 1400
+tim 1400
+tim 1400
+tom 1400
+win 1400
