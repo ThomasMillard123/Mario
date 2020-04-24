@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.h(16): error C2061: syntax error: identifier 'string'
+C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Source.cpp(57): error C2660: 'Texture2D::LoadFromFile': function does not take 1 arguments
+  C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.h(16): note: see declaration of 'Texture2D::LoadFromFile'
+  Texture2D.cpp
+C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.h(16): error C2061: syntax error: identifier 'string'
+C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.cpp(24): error C2572: 'Texture2D::Render': redefinition of default argument: parameter 1
+  C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.h(18): note: see declaration of 'Texture2D::Render'
+C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.cpp(31): error C2511: 'bool Texture2D::LoadFromFile(std::string)': overloaded member function not found in 'Texture2D'
+  C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.h(9): note: see declaration of 'Texture2D'
+C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.cpp(40): error C2597: illegal reference to non-static member 'Texture2D::mRenderer'
+C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.cpp(42): error C2597: illegal reference to non-static member 'Texture2D::mWidth'
+C:\Users\m017227i\OneDrive - Staffordshire University\First year\Games Enging Creation\sem2\MarioV1\MarioV1\Texture2D.cpp(43): error C2597: illegal reference to non-static member 'Texture2D::mHeight'
+  Generating Code...
